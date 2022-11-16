@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JSWesterfield/test-aws-git-cc/issues"
   },
-  "homepage": "https://github.com/JSWesterfield/test-aws-git-cc#readme"
+  "homepage": "https://github.com/JSWesterfield/test-aws-git-cc#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
